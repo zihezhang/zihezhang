@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Zihe (she/her) 👋
+Feel free to lurk around and don't be shy to reach out!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zihezhang" alt="Zihe Zhang" />
+</p>
 
 <!--
 **zihezhang/zihezhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 

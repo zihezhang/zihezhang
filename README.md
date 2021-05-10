@@ -1,7 +1,5 @@
 ### Hi there, I'm Zihe (she/her) 👋
-I'm a Computer Engineering student at the University of Waterloo. I love learning new things and exploring the depths of technology! 
-
-Feel free to lurk around and don't be shy to reach out to me on [LinkedIn](https://www.linkedin.com/in/zihe-zhang/ "LinkedIn - Zihe Zhang")!
+I'm a Computer Engineering student at the University of Waterloo. I love learning new things and exploring the depths of technology! Feel free to lurk around and don't be shy to reach out to me on [LinkedIn](https://www.linkedin.com/in/zihe-zhang/ "LinkedIn - Zihe Zhang")!
 
 
 <!--
